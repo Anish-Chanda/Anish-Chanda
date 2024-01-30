@@ -52,9 +52,8 @@
 ### Badges
 <b>My GitHub Stats</b>
 
-<a
-href="http://www.github.com/Anish-Chanda">
-<img src="https://github-readme-stats.vercel.app/api?username=Anish-Chanda&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anish-Chanda's GitHub stats" height=310 width=500 /></a>
+<img src="https://raw.githubusercontent.com/anish-chanda/anish-chanda/output/snake.svg" alt="activity snake animation"/>
+
 <a href="http://www.github.com/Anish-Chanda">
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Chanda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height=300 width=500 /></a>
