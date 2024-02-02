@@ -55,7 +55,3 @@
 <b>My GitHub Stats</b>
 
 <img src="https://raw.githubusercontent.com/anish-chanda/anish-chanda/output/snake.svg" alt="activity snake animation"/>
-
-<a href="http://www.github.com/Anish-Chanda">
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Chanda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height=300 width=500 /></a>
