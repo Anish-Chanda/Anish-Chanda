@@ -55,3 +55,5 @@
 <b>My GitHub Stats</b>
 
 <img src="https://raw.githubusercontent.com/anish-chanda/anish-chanda/output/snake.svg" alt="activity snake animation"/>
+
+Made with [Platane/snk](https://github.com/Platane/snk)
