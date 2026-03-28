@@ -3,8 +3,7 @@
 ## Software Engineer Student @ ISU
 
 - 🌍  I'm based in Ames, IA
-- ✉️  You can contact me at [anish03@iastate.edu](mailto:anish03@iastate.edu)
-- 🧠  I'm learning Golang
+- ✉️  You can contact me at [me@anishchanda.dev](mailto:me@anishchanda.dev)
 - 🤝  I'm open to collaborating on Projects
 
 ### Skills
